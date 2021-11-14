@@ -72,7 +72,8 @@ Shown in the button are:
 - icon + tag
 - name
 - value
-To use the icon the TAG is used; eg.  crypto:ada
+- 
+To show the icon the TAG is used; eg.  crypto:ada
 
 [//]: # (Start Crypto Icons)
 
@@ -89,6 +90,7 @@ Your crypto coin not there? Let me know what's missing by raising a [Custom Icon
 
 ### Discussion:
 There's a thread over at the [home assistant forums](https://community.home-assistant.io/t/created-custom-colorizable-hue-icons-as-a-lovelace-resource) that tracks this repo.
+
 
 ## Troubleshooting:
 
