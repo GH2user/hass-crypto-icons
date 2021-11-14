@@ -72,3 +72,65 @@ hass-crypto-icons includes 20 crypto coin icons based on various sources.
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
 | ![hue:bloom](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bloom.svg)| hue:bloom | ![hue:bollard](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bollard.svg)| hue:bollard |
+
+
+
+[//]: # (End Crypto Icons) 
+
+### User Requested Crypto Icons
+hass-crypto-icons includes 2 custom icons created by the author. Each of these has been hand drawn in Inkscape and proposed in response to a community request. 
+
+[//]: # (Start Custom Icons)
+
+| Icon | Name | Icon | Name 
+| :--- | :--- | :--- | :--- |
+| ![hue:adore-alt](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/custom_svgs/adore-alt.svg)| hue:adore-alt | ![hue:adore-mirror]
+
+
+
+[//]: # (End Custom Icons) 
+
+### Icon Requests?
+Your crypto coin not there? Let me know what's missing by raising a [Custom Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+
+
+### Sample Dash 
+With view icons and state color applied, normally you would have them green or red depending on trend up or down.
+![lovelace_example](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/examples/lovelace_example.png)
+
+### Discussion:
+There's a thread over at the [home assistant forums](https://community.home-assistant.io/t/created-custom-colorizable-hue-icons-as-a-lovelace-resource) that tracks this repo.
+
+## Troubleshooting:
+
+### Can't see the icons?
+If you cannot see the new icons, or you get an empty box where you're expecting an icon, press CTRL-F5 when your browser window has focus. 
+
+### Still can't see the icons?
+If you cannot see the new icons, or you get an empty box where you're expecting an icon, flush your network cache. 
+
+### Icons don't show on first load of the dash?
+Did you add the frontend extra_module_url in your configuration.yaml? See the [installation section](#installation) for details.
+
+
+
+ 
+## Thanks and Props
+- based on original work of @arallsopp for which many thanks
+- he received guidance from 
+- - @hulkhaugen and @thomasloven for the technique.
+- - @ludeeus for the installation guidance.
+- Everyone who has helped make this repo so broad by raising an [Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+
+### Stargazers
+[![Stargazers repo roster for @arallsopp/hass-hue-icons](https://reporoster.com/stars/arallsopp/hass-hue-icons)](https://github.com/arallsopp/hass-hue-icons/stargazers)
+
+---
+
+
+### License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+I do this for fun, without charge, and to give back to the community. You may remix, tweak, and build upon this work non-commercially, as long as you credit the original author, provide a link to the license, and indicate if any changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use unless agreed. If you remix, transform or build upon the material, you must distribute your contributions under the same or compatible license as the original. 
+
