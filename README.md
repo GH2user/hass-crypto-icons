@@ -66,29 +66,19 @@ entities:
 ### Crypto Icons
 
 hass-crypto-icons includes 20 crypto coin icons based on various sources.
+Some of these have been hand drawn in Inkscape and others are reworked icons.
 
 [//]: # (Start Crypto Icons)
 
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
-| ![crypto:ada](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/main/docs/coin-svgs/ada-optimised.svg)| crypto:ada | ![hue:bollard](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bollard.svg)| hue:bollard |
+| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/5ca7e1c4f7fae1230757d3f2d98212a4985921fb/docs/coin-svgs/ada-combined-optimised.svg?token=AOHXWJSBDAS7R7HZWZFMYPDBSEXKC)| hue:adore-alt | ![hue:adore-mirror]
+| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/5ca7e1c4f7fae1230757d3f2d98212a4985921fb/docs/coin-svgs/ant-combined-optimised.svg?token=AOHXWJSBDAS7R7HZWZFMYPDBSEXKC)| hue:adore-alt | ![hue:adore-mirror]
+
 
 
 
 [//]: # (End Crypto Icons) 
-
-### User Requested Crypto Icons
-hass-crypto-icons includes 2 custom icons created by the author. Each of these has been hand drawn in Inkscape and proposed in response to a community request. 
-
-[//]: # (Start Custom Icons)
-
-| Icon | Name | Icon | Name 
-| :--- | :--- | :--- | :--- |
-| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/5ca7e1c4f7fae1230757d3f2d98212a4985921fb/docs/coin-svgs/ada-combined-optimised.svg?token=AOHXWJSBDAS7R7HZWZFMYPDBSEXKC)| hue:adore-alt | ![hue:adore-mirror]
-| ![hue:adore-alt](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/custom_svgs/adore-alt.svg)| hue:adore-alt | ![hue:adore-mirror]
-
-
-[//]: # (End Custom Icons) 
 
 ### Icon Requests?
 Your crypto coin not there? Let me know what's missing by raising a [Custom Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
