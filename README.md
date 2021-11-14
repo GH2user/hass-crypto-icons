@@ -1,7 +1,7 @@
 # hass-crypto-icons
 Additional vector icons of various Crypto coins for Home Assistant.
 Request for other icons are welcome, refer below.
-[header-bar](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/header_bar.jpg?raw=true)
+![header-bar](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/header_bar.jpg?raw=true)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
