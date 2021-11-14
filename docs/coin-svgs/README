@@ -1,0 +1,7 @@
+For most coins two files excist;
+- <coin>.svg = basic drawing with seperate paths
+- <coin>-optimised.svg = cleaned, single path, Inkscape optimised file
+
+A few coins have two (or more) versions designated by the <number> prefix.
+
+Blank file is the basic 24x24 Inkscape fiel used as template for all coins.
