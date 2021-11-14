@@ -72,8 +72,8 @@ Some of these have been hand drawn in Inkscape and others are reworked icons.
 
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
-| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/5ca7e1c4f7fae1230757d3f2d98212a4985921fb/docs/coin-svgs/ada-combined-optimised.svg?token=AOHXWJSBDAS7R7HZWZFMYPDBSEXKC)| hue:adore-alt | ![hue:adore-mirror]
-| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/6028af2819f052e2fea2abfde322308498870f4a/docs/coin-svgs/ant-optimised.svg?token=AOHXWJWQTZKYRLGRDXFFOJ3BSEYAW)| hue:adore-alt | ![hue:adore-mirror]
+
+![icons v1.0.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/icons_100.jpg?raw=true)
 
 
 
