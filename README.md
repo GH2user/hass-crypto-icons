@@ -70,16 +70,18 @@ Some of these have been hand drawn in Inkscape and others are reworked icons.
 
 [//]: # (Start Crypto Icons)
 
-| Icon | Name | Icon | Name 
+| Icon | crypto:<TAG> |
+  | Name |
+  | Value |
+  
 | :--- | :--- | :--- | :--- |
 
 ![icons v1.0.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/icons_100.jpg?raw=true)
 
 
-
-
 [//]: # (End Crypto Icons) 
 
+  
 ### Icon Requests?
 Your crypto coin not there? Let me know what's missing by raising a [Custom Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
