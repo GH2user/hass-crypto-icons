@@ -84,7 +84,7 @@ hass-crypto-icons includes 2 custom icons created by the author. Each of these h
 
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
-| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/main/docs/coin_svgs/ada-optimised.svg)| hue:adore-alt | ![hue:adore-mirror]
+| ![hue:adore-alt](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/5ca7e1c4f7fae1230757d3f2d98212a4985921fb/docs/coin-svgs/ada-combined-optimised.svg?token=AOHXWJSBDAS7R7HZWZFMYPDBSEXKC)| hue:adore-alt | ![hue:adore-mirror]
 | ![hue:adore-alt](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/custom_svgs/adore-alt.svg)| hue:adore-alt | ![hue:adore-mirror]
 
 
