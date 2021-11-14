@@ -1,6 +1,6 @@
 # hass-crypto-icons
-Additional vector icons for Home Assistant of various Crypto coins.
-Only because I wanted to track a few coins by using Home Assistant.
+Additional vector icons of various Crypto coins for Home Assistant.
+Request for other icons are welcome, refer below.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
