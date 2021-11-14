@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.0px"
+   height="24.0px"
+   viewBox="0 0 24.0 24.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="link-own-1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview839"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="29.111153"
+     inkscape:cx="9.5496046"
+     inkscape:cy="13.96372"
+     inkscape:window-width="1922"
+     inkscape:window-height="1145"
+     inkscape:window-x="1137"
+     inkscape:window-y="137"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs834" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4088"
+       style="fill:#008080;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       inkscape:transform-center-x="0.47769201"
+       inkscape:transform-center-y="0.96771819"
+       transform="matrix(1.0873719,0.46878126,-0.46878126,1.0873719,4.1081311,-5.586466)"
+       d="m 18,3 3.928203,9.196152 -6,8 L 6,19 2.0717968,9.8038476 l 6,-8 z" />
+    <path
+       id="path4354"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       inkscape:transform-center-x="0.28002525"
+       inkscape:transform-center-y="0.5811858"
+       transform="matrix(0.63742263,0.28153758,-0.27480182,0.65304671,7.3737485,1.4380352)"
+       d="m 18,3 3.928203,9.196152 -6,8 L 6,19 2.0717968,9.8038476 l 6,-8 z" />
+  </g>
+</svg>

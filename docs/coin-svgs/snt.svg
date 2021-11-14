@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.0px"
+   height="24.0px"
+   viewBox="0 0 24.0 24.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="snt.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview839"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="37.291667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="2148"
+     inkscape:window-height="1145"
+     inkscape:window-x="406"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs834" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="circle2"
+       style="fill:#008080;stroke-width:0.75"
+       d="M 12 0 A 12 12 0 0 0 0 12 A 12 12 0 0 0 12 24 A 12 12 0 0 0 24 12 A 12 12 0 0 0 12 0 z M 14.789062 5.8632812 C 16.694063 5.8632812 18 6.7960625 18 8.7265625 C 18 10.657813 16.433688 11.591797 14.148438 11.591797 C 12.460938 11.591797 11.662109 11.265625 9.9746094 11.265625 A 6.858 6.858 0 0 0 8.7265625 11.373047 C 9.0655625 8.2380469 11.678062 5.8632812 14.789062 5.8632812 z M 9.8515625 12.408203 C 11.538313 12.408203 12.337891 12.734375 14.025391 12.734375 A 6.858 6.858 0 0 0 15.273438 12.626953 C 14.934437 15.762703 12.321938 18.136719 9.2109375 18.136719 C 7.3059375 18.136719 6 17.203937 6 15.273438 C 6 13.342937 7.5663125 12.408203 9.8515625 12.408203 z " />
+  </g>
+</svg>

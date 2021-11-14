@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.0px"
+   height="24.0px"
+   viewBox="0 0 24.0 24.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="xrp.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview839"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="37.291667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="2148"
+     inkscape:window-height="1145"
+     inkscape:window-x="760"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs834" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="Layer_2"
+       data-name="Layer 2"
+       transform="matrix(0.04644196,0,0,0.04644196,0.11085824,2.1543045)">
+      <g
+         id="Layer_1-2"
+         data-name="Layer 1">
+        <path
+           class="cls-1"
+           d="m 437,0 h 74 L 357,152.48 c -55.77,55.19 -146.19,55.19 -202,0 L 0.94,0 H 75 l 117,115.83 a 91.11,91.11 0 0 0 127.91,0 z"
+           id="path8" />
+        <path
+           class="cls-1"
+           d="M 74.05,424 H 0 L 155,270.58 c 55.77,-55.19 146.19,-55.19 202,0 L 512,424 H 438 L 320,307.23 a 91.11,91.11 0 0 0 -127.91,0 z"
+           id="path10" />
+      </g>
+    </g>
+  </g>
+</svg>
