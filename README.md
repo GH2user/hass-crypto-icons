@@ -71,7 +71,7 @@ hass-crypto-icons includes 20 crypto coin icons based on various sources.
 
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
-| ![hue:bloom](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bloom.svg)| hue:bloom | ![hue:bollard](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bollard.svg)| hue:bollard |
+| ![crypto:ada](https://raw.githubusercontent.com/GH2user/hass-crypto-icons/main/docs/coin-svgs/ada-optimised.svg)| hue:bloom | ![hue:bollard](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bollard.svg)| hue:bollard |
 
 
 
