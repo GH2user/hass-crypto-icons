@@ -68,13 +68,13 @@ entities:
 hass-crypto-icons includes 20 crypto coin icons based on various sources.
 Some of these have been hand drawn in Inkscape and others are reworked icons.
 
-[//]: # (Start Crypto Icons)
+Shown in the button are:
+- icon + tag
+- name
+- value
+To use the icon the TAG is used; eg.  crypto:ada
 
-| Icon | crypto:<TAG> |
-  | Name |
-  | Value |
-  
-| :--- | :--- | :--- | :--- |
+[//]: # (Start Crypto Icons)
 
 ![icons v1.0.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/icons_100.jpg?raw=true)
 
@@ -86,9 +86,6 @@ Some of these have been hand drawn in Inkscape and others are reworked icons.
 Your crypto coin not there? Let me know what's missing by raising a [Custom Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 
-### Sample Dash 
-With view icons and state color applied, normally you would have them green or red depending on trend up or down.
-![lovelace_example](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/examples/lovelace_example.png)
 
 ### Discussion:
 There's a thread over at the [home assistant forums](https://community.home-assistant.io/t/created-custom-colorizable-hue-icons-as-a-lovelace-resource) that tracks this repo.
