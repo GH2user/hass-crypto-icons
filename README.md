@@ -66,10 +66,10 @@ entities:
 
 ### Crypto Icons
 
-hass-crypto-icons includes 20 crypto coin icons based on various sources.
-Some of these have been hand drawn in Inkscape and others are reworked icons.
+hass-crypto-icons initially includes 40 crypto coin icons based on various sources.
+Some of these have been hand drawn in Inkscape and others are reworked icons from the net.
 
-Shown in the button are:
+Shown in the button screenshot below are:
 - icon + coin tag
 - coin name
 - 
@@ -115,7 +115,7 @@ Did you add the frontend extra_module_url in your configuration.yaml? See the [i
 - he received guidance from 
 - - @hulkhaugen and @thomasloven for the technique.
 - - @ludeeus for the installation guidance.
-- Everyone who has helped make this repo by raising an [Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 ### Stargazers
 [![Stargazers repo roster for @arallsopp/hass-hue-icons](https://reporoster.com/stars/arallsopp/hass-hue-icons)](https://github.com/arallsopp/hass-hue-icons/stargazers)
