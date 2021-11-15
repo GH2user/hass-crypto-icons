@@ -78,7 +78,9 @@ To show the icon the TAG is used; eg.  crypto:ada
 
 [//]: # (Start Crypto Icons)
 
-![icons v1.0.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/icons_100.jpg?raw=true)
+![icons v1.0.0AJ](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-0-0 A_J.jpg?raw=true)
+![icons v1.0.0KZ](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-0-0 K-Z.jpg?raw=true)
+![icons v1.0.0circular](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-0-0 circular.jpg?raw=true)
 
 
 [//]: # (End Crypto Icons) 
