@@ -70,11 +70,10 @@ hass-crypto-icons includes 20 crypto coin icons based on various sources.
 Some of these have been hand drawn in Inkscape and others are reworked icons.
 
 Shown in the button are:
-- icon + tag
-- name
-- value
+- icon + coin tag
+- coin name
 - 
-To show the icon the TAG is used; eg.  crypto:ada
+To show the icon the coin TAG is used; eg.  crypto:ada
 
 [//]: # (Start Crypto Icons)
 
@@ -89,7 +88,7 @@ To show the icon the TAG is used; eg.  crypto:ada
 
   
 ### Icon Requests?
-Your crypto coin not there? You like another design. Let me know what's missing by raising a [Custom Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+Your crypto coin not there? You like another design? Let me know what's missing by raising a [Custom Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 
 
