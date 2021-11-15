@@ -46,7 +46,7 @@ frontend:
 
 
 ## Usage
-- In your entity editor, specify an icon as `crypto:icon-TAG` 
+- In your entity editor, specify an icon as `crypto:coin-TAG` 
 - If you set `state_color: true` in your card, you'll see the icons get colorised based upon the current RGB setting.
 - They will show up in the new icon-picker from HA 2021-11.0 and onwards
 
