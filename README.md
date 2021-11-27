@@ -15,7 +15,7 @@ Request for other icons are welcome, refer below.
 
 Hass-crypto-icons has been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz). 
 
-### HACS
+### HACS:
 Not Yet, please STAR this repository so it might get added to the default HACS repositories !
 
 
@@ -98,12 +98,12 @@ Did you add the frontend extra_module_url in your configuration.yaml? See the [i
 
 
  
-## Thanks and Props
+## Thanks and 
 - based on original work of @arallsopp for which many thanks
 - he received guidance from 
 - - @hulkhaugen and @thomasloven for the technique.
 - - @ludeeus for the installation guidance.
-- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/GH2user/hass-crypto-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 ---
 
