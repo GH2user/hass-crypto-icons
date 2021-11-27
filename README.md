@@ -24,7 +24,7 @@ Not Yet, please STAR this repository so it might get added to the default HACS r
 - Copy `dist/hass-crypto-icons.js` into your `config/www` folder.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
 - set url as `/local/hass-crypto-icons.js` and Resource Type as `Javascript Module`.
-- Add the following to your configuration.yaml, save and restart HA.
+- Add the following to your configuration.yaml, save and restart Home Assistant.
 ```
 frontend:
   extra_module_url:
