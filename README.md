@@ -76,7 +76,7 @@ To show the icon the coin TAG is used; eg.  crypto:ada
 
   
 ### Icon Requests?
-Your crypto coin not there? You like another design? Let me know what's missing by raising a [Custom Icon Request](https://github.com/GH2user/hass-crypto-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+Your crypto coin not there? You like another design? Let me know what's missing by raising a [Custom Icon Request](https://github.com/GH2user/hass-crypto-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20coin%5D).
 
 
 
@@ -103,7 +103,7 @@ Did you add the frontend extra_module_url in your configuration.yaml? See the [i
 - he received guidance from 
 - - @hulkhaugen and @thomasloven for the technique.
 - - @ludeeus for the installation guidance.
-- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/GH2user/hass-crypto-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
+- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/GH2user/hass-crypto-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20coin%5D).
 
 ---
 
