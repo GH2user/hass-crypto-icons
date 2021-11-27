@@ -13,7 +13,8 @@ Request for other icons are welcome, refer below.
 
 ## <a name="installation"></a>Installation
 
-Hass-crypto-icons has been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz). 
+Hass-crypto-icons has not yet been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz). 
+Pleasae STAR this repository as it increases the chances it wil be added !
 
 ### HACS:
 Not Yet, please STAR this repository so it might get added to the default HACS repositories !
