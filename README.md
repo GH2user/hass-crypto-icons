@@ -3,7 +3,6 @@ Additional vector icons of various Crypto coins for Home Assistant.
 Request for other icons are welcome, refer below.
 ![header-bar](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/header_bar.jpg?raw=true)
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -16,20 +15,9 @@ Request for other icons are welcome, refer below.
 
 Hass-crypto-icons has been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz). 
 
-### HACS (Recommended):
-This is the recommended way to install hass-hue-icons. Hass-hue-icons is a default repository for HACS. To install:
+### HACS
+Not Yet, please STAR this repository so it might get added to the default HACS repositories !
 
-- Load HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
-- Select 'Frontend' to see the list of front end plugins and repositories.
-- Click the '+ Explore & Add repositories' button.
-- Type 'hass crypto icons' into the search bar and click the row returned.
-- Click 'Install this repository in HACS' from the resulting dialog. 
-- Add the following to your configuration.yaml, save and restart HA.
-```
-frontend:
-  extra_module_url:
-    - /hacsfiles/hass-crypto-icons/hass-crypto-icons.js
-```
 
 ### Manual:
 - Copy `dist/hass-crypto-icons.js` into your `config/www` folder.
@@ -93,7 +81,7 @@ Your crypto coin not there? You like another design? Let me know what's missing 
 
 
 ## Discussion:
-There's a thread over at the [home assistant forums](https://community.home-assistant.io/t/created-custom-colorizable-hue-icons-as-a-lovelace-resource) that tracks this repo.
+Currently there is no dedicated area to discuss this, if sufficient interest we can open one on the [home assistant forums](https://community.home-assistant.io/c/projects/9).
 
 
 ## Troubleshooting:
@@ -115,10 +103,7 @@ Did you add the frontend extra_module_url in your configuration.yaml? See the [i
 - he received guidance from 
 - - @hulkhaugen and @thomasloven for the technique.
 - - @ludeeus for the installation guidance.
-- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
-
-### Stargazers
-[![Stargazers repo roster for @arallsopp/hass-hue-icons](https://reporoster.com/stars/arallsopp/hass-hue-icons)](https://github.com/arallsopp/hass-hue-icons/stargazers)
+- Everyone who has helped extending this repo by raising an [Icon Request](https://github.com/arallsopp/hass-hue-icons/issues/new?assignees=GH2user&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 ---
 
