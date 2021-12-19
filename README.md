@@ -58,6 +58,8 @@ entities:
 hass-crypto-icons initially includes 40 crypto coin icons based on various sources.
 Some of these have been hand drawn in Inkscape and others are reworked icons from the net.
 
+I have added 10 more in v1-1-0 with the very nice TIME icon as a request.
+
 Shown in the button screenshot below are:
 - icon + coin tag
 - coin name
