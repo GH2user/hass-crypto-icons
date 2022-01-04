@@ -59,6 +59,7 @@ hass-crypto-icons initially includes 40 crypto coin icons based on various sourc
 Some of these have been hand drawn in Inkscape and others are reworked icons from the net.
 
 I have added 10 more in v1-1-0 with the very nice TIME icon as a request.
+I have added 10 more in v1-2-0 with the AMP, FLOKI and LRC icons as a request.
 
 Shown in the button screenshot below are:
 - icon + coin tag
@@ -76,8 +77,10 @@ To show the icon the coin TAG is used; eg.  crypto:ada
 
 
 Version 1.1.0 added icons
-
 ![icons v1.1.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-1-0%20added.jpg?raw=true)
+
+Version 1.2.0 added icons
+![icons v1.2.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-2-0%20added.jpg?raw=true)
 
 [//]: # (End Crypto Icons) 
 
