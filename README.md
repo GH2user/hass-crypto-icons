@@ -85,6 +85,9 @@ Version 1.2.0 added icons
 
 ![icons v1.2.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-2-0%20added.jpg?raw=true)
 
+Version 1.3.0 added icons
+
+![icons v1.3.0](https://github.com/GH2user/hass-crypto-icons/blob/main/docs/examples/v1-3-0%20added.jpg?raw=true)
 
 [//]: # (End Crypto Icons) 
 
